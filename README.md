@@ -156,8 +156,7 @@ Avg Performance  = AVERAGE(HR_Records[Performance Rating])
 ```
 ├── README.md
 ├── HR_Attrition_Dashboard.pbix
-└── images/
-    └── dashboard.png
+└── dashboard.png
 ```
 
 ---
@@ -173,4 +172,4 @@ Please review the original sources' terms before redistributing their files.
 
 ## Author
 
-**[Jitendriya Satyadarshi]** 
+**Jitendriya Satyadarshi** 
