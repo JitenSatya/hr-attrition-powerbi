@@ -2,7 +2,8 @@
 
 A Power BI dashboard that analyzes **1,000 employees across 8 departments** to answer three questions about **who leaves the company, and what they have in common**.
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](<img width="1318" height="734" alt="dashboard" src="https://github.com/user-attachments/assets/8c6e1f0c-db68-4cd9-a482-9f796776d702" />
+)
 
 > **Note:** The dataset is a free *sample* dataset, not real company data. Treat the findings as a practice case study, not as real-world HR advice.
 
@@ -171,4 +172,4 @@ Please review the original sources' terms before redistributing their files.
 
 ## Author
 
-**[Your Name]** · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+**[Jitendriya Satyadarshi]** 
